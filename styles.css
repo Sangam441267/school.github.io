@@ -224,7 +224,7 @@ img {
     height: 100vh;
     min-height: 700px;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                url('https://scontent.fktm7-1.fna.fbcdn.net/v/t39.30808-6/441971403_297186563457128_5827421614744069416_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeES81SlehxdvLzfcluOvmK4r4sfNW5-75ivix81bn7vmMshgDEnS-efV9PZJy_vGwgjcy7KdUnAk-dHgUvOoio8&_nc_ohc=nd-Zs09zlzUQ7kNvgHcdD2n&_nc_oc=AdluxNvFMGRqqG4Z5VLiTzTkL4f1KlPKjK3G7DDQGF82vB6oeIeQqQypTCihy9yWngk&_nc_zt=23&_nc_ht=scontent.fktm7-1.fna&_nc_gid=xxDjclhF_h6AqP9k3PsJPw&oh=00_AYEUC-PKn293JpobmYdqCrk6xJfchb6HbkKY0rcb8mxflA&oe=67E8AF60') no-repeat center center/cover;
+                url('img/home-cover.jpg') no-repeat center center/cover;
     color: var(--white);
     display: flex;
     align-items: center;
